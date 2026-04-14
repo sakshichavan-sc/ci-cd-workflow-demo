@@ -1,0 +1,21 @@
+{
+  "name": "cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest",
+    "build": "echo Build successful"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.2.0",
+    "globals": "^17.5.0",
+    "jest": "^30.3.0"
+  }
+}
